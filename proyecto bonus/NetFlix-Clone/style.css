@@ -1,0 +1,19 @@
+.logo img{
+    width: 180px;
+}
+
+.top-section{
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar2{
+    /* padding-right: 40px; */
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+
+}
+
